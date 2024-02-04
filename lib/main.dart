@@ -351,7 +351,7 @@ class _MusicLibraryScreenState extends State<MusicLibraryScreen> {
   final List<String> audioFileNames = [
     'assets/audio/ram_bhajan.mp3',
     'assets/audio/aarti.mp3',
-    'mantra.mp3',
+    'assets/audio/matra.mp3',
     // Add more audio file names as needed
   ];
 
